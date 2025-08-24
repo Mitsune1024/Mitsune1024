@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mitsune1024
-- 👀 I’m interested in Music and codeeeeeeeeee :3
-- 🌱 I’m currently learning C++, Phyton and some other stuff
+- 👋 Hi, I’m Mitsune The Maid
+- 👀 I’m interested in Music and code :3
+- 🌱 I’m currently learning GLSL, Processing and some other stuff
 - 📫 You can dm me on Instagram, same @
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Im a musician
