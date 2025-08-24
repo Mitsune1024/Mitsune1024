@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GLSL, Processing and some other stuff
 - 📫 You can dm me on Instagram, same @
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Im a musician
+- ⚡ Fun fact: I'm trans
 
 <!---
 Mitsune1024/Mitsune1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
